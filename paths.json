@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/xwalk-site/:/",
-    "/content/xwalk-site/metadata.json:/metadata.json",
+    "/content/xwalk-site/metadata.json:/metadata.json"
     "/content/xwalk-site/redirects.json:/redirects.json"
   ],
  }
